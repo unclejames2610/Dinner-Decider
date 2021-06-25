@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="selectedFoodTxt">Leftovers</string>
+    <string name="logo">logo</string>
+    <string name="decidebtn">DECIDE!!</string>
+    <string name="add_new_food">add new food...</string>
+    <string name="add_foodbtn">ADD FOOD</string>
+    <string name="contentdescription">logoqubit</string>
+</resources>
